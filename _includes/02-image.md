@@ -1,1 +1,1 @@
-Replace this with an image, like your photo. Ensure you include some alt-text.
+![Image of Panda](https://vignette.wikia.nocookie.net/polarbearscafe/images/a/a9/Chara_panda.png/revision/latest?cb=20130131061537)
